@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Wisnu</string>
+    <string name="category_agrowisata">Agrowisata</string>
+    <string name="welcome_word">Welcome to\nWisata Nusantara</string>
+    <string name="title_placeholder">TITLE</string>
+    <string name="category_placeholder">CATEGORY</string>
+    <string name="todo">TO DO</string>
+    <string name="count_loading">0 %</string>
+    <string name="lihat_wisata">Lihat Wisata</string>
+    <string name="notification_title">Hai!</string>
+    <string name="notification_text">Ayok jalan-jalan bareng wisnu</string>
+    <string name="open_time_picker">Set Alarm</string>
+    <string name="cancel_alarm">Cancel alarm</string>
+    <string name="action_alarm">Alarm</string>
+    <string name="alarm_title">Alarm</string>
+    <string name="title_activity_alarm_">Alarm_Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="logo">logo</string>
 </resources>
